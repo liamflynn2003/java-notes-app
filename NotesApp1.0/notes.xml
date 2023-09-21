@@ -1,0 +1,23 @@
+<object-stream>
+  <list>
+    <models.Note>
+      <notePriority>4</notePriority>
+      <noteCategory></noteCategory>
+      <isNoteArchived>true</isNoteArchived>
+      <noteTitle>burger</noteTitle>
+      <items>
+        <models.Item>
+          <itemDescription>Eat 10 BUrgers</itemDescription>
+          <isItemCompleted>false</isItemCompleted>
+        </models.Item>
+      </items>
+    </models.Note>
+    <models.Note>
+      <notePriority>2</notePriority>
+      <noteCategory></noteCategory>
+      <isNoteArchived>false</isNoteArchived>
+      <noteTitle>pants</noteTitle>
+      <items/>
+    </models.Note>
+  </list>
+</object-stream>
